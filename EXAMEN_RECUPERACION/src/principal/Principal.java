@@ -49,7 +49,7 @@ public class Principal {
 				
 				// ahora listamos los nombres y  sus notas medias
 				
-				for (int i=0; i<=nalum;i++)
+				for (int i=0; i<nalum;i++)
 				{
 					sumanotas=0;
 					// calculamos la nota media del alumno "i-esimo"
