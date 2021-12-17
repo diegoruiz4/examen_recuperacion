@@ -51,6 +51,7 @@ public class Principal {
 				
 				for (int i=0; i<=nalum;i++)
 				{
+					sumanotas=0;
 					// calculamos la nota media del alumno "i-esimo"
 					for (int j=0;j<3;i++)
 					{
