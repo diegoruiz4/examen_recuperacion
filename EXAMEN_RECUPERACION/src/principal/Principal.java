@@ -6,6 +6,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// ERRROR PARA EL CONFLICTO
+		
 		
 				// Programa que pregunta datos de alumnos de una clase (nombre y tres notas) y luego los lista sacando su nota media
 				
