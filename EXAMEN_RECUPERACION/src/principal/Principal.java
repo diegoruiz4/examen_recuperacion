@@ -8,7 +8,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 				// Programa que pregunta datos de alumnos de una clase (nombre y tres notas) y luego los lista sacando su nota media
-				
+				// sdfhsgdfhsdbfijdsf
 				Scanner lector = new Scanner(System.in);  // la "herramienta lectora"
 				
 				String[] nombre; // el vector de nombres
