@@ -43,6 +43,7 @@ public class Principal {
 					{
 						System.out.println("Introduzca la nota del alumno "+nombre[i]+" ");
 						lector.nextDouble();
+						lector.nextLine();
 					}
 				}
 				
