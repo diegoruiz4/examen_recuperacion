@@ -39,7 +39,7 @@ public class Principal {
 					nombre[i]=lector.nextLine();
 					
 					// las notas
-					for (int j=0;j<=3;j++)
+					for (int j=0;j<3;j++)
 					{
 						System.out.println("Introduzca la nota del alumno "+nombre[i]+" ");
 						lector.nextDouble();
