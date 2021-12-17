@@ -42,7 +42,7 @@ public class Principal {
 					for (int j=0;j<3;j++)
 					{
 						System.out.println("Introduzca la nota del alumno "+nombre[i]+" ");
-						lector.nextDouble();
+						nota[i][j]=lector.nextDouble();
 						lector.nextLine();
 					}
 				}
